@@ -1,5 +1,3 @@
-//exactlty or basic callback function/method
-
 console.log("first")
 
 function login(cb){
