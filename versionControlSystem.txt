@@ -1,0 +1,19 @@
+^5.2.1 = express
+
+1st part = 5
+
+2nd part = 2
+
+3rd part = 1
+
+(3rd part) 1 : minor fixes(optional update)
+(2nd part) 2 : recommended bug fixes(security fixes)
+(1st part) 5 : major fixes(Create new application to 5 version)
+
+^5 = locks the 5 version and makes changes in 2.1 
+^: install all recommended and minor fixed automatically
+
+~5.2.1 :  locks the 5.2 verison and make change in 3rd part
+
+to change the express version= npm install express@(version number)
+
